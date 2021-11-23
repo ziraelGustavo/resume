@@ -1,0 +1,25 @@
+body {
+    
+    color: #f5e4e4;
+    background-color: #2a2128;
+    font-family: Raleway, sans-serif;
+}
+
+.gradientTitle {
+    font-size: 60px;
+    font-family: Spartan, sans-serif;
+    font-style: bold;
+    background-color: #ff6cdb;
+    background-image: linear-gradient(45deg, #ff7d6c, #ff6cdb);
+    width: fit-content;
+    background-repeat: repeat;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent; 
+    -moz-background-clip: text;
+    -moz-text-fill-color: transparent;
+}
+
+a {
+    color: #ff6cdb ;
+    text-decoration: none;
+}
